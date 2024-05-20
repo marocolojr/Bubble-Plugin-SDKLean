@@ -1,0 +1,19 @@
+{
+    "category": "plugins",
+    "display": "Call",
+    "fields": {
+        "AAD": {
+            "caption": "token",
+            "editor": "StaticText",
+            "name": "token",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "customerid",
+            "editor": "StaticText",
+            "name": "customerid",
+            "rank": 1
+        }
+    },
+    "type": "client_side"
+}
